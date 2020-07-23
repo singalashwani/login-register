@@ -1,7 +1,8 @@
 .forms {height: 100vh;}
 .left {background-image: url(https://cdn.pixabay.com/photo/2016/11/08/05/26/woman-1807533_1280.jpg);background-size: cover;}
 .right {background-color: #ededed;display:flex;align-items: center;justify-content: center;}
-.rightSection {border: 1px solid #999; width: 100%;padding: 25px 15px;background-color: #fff;border-radius: 20px;}
+form {border: 1px solid #999; padding: 25px 15px;background-color: #fff;border-radius: 20px;}
+.rightSection {width: 100%;}
 .submitbtn .btn {width: 100%;}
 .txt {margin: 20px 0 0;cursor: pointer;font-weight: bold;}
 .myAnimation {animation: anim .5s linear;}
